@@ -32,7 +32,10 @@ The resume page itself uses no JavaScript, frameworks, external libraries, or bu
 resume-website/
 ├── index.html
 ├── style.css
-└── README.md
+├── README.md
+└── rollback evidence/
+    ├── Screenshot 2026-10-12 101932.png
+    └── Screenshot 2026-10-12 102116.png
 ```
 
 ## Run locally
