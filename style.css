@@ -723,3 +723,7 @@ p {
         transition-duration: 0.01ms !important;
     }
 }
+/* Temporary rollback test */
+body {
+    outline: 3px solid red;
+}
